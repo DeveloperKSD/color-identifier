@@ -32,6 +32,7 @@ TCS34725 connects via I2C (SDA → A4, SCL → A5 on Uno).
 
 ## Circuit Diagram
 
+<img width="906" height="862" alt="image" src="https://github.com/user-attachments/assets/73112a7c-bd6d-465b-9f6f-a78f9f7b67d1" />
 
 ---
 
