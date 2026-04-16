@@ -1,6 +1,6 @@
 # Color Detection System with Audio Feedback
  
-An Arduino-based system that detects the color of an object using an RGB sensor and announces it through a speaker. Built as part of our Microprocessors & Microcontrollers (MPMS) course.
+An Arduino-based system that detects the color of an object using an RGB sensor and announces it through a speaker. Built as part of our Microprocessors & Microcontrollers (MPMC) course.
  
 ---
  
@@ -27,9 +27,14 @@ An Arduino-based system that detects the color of an object using an RGB sensor 
 | GND | GND |
  
 TCS34725 connects via I2C (SDA → A4, SCL → A5 on Uno).
- 
+
 ---
- 
+
+## Circuit Diagram
+
+
+---
+
 ## SD Card Setup
  
 Place MP3 files inside a folder named `mp3` on the SD card, named exactly as follows:
